@@ -956,7 +956,7 @@ export function Landing() {
                   The Vesuvius Challenge is a machine learning and computer
                   vision competition to read the Herculaneum Papyri.
                 </p>
-                <a className="cursor-pointer group hover:no-underline" href="/firstletters">
+                <a className="cursor-pointer group hover:no-underline" href="/submissions_closed">
                   <div
                     className="max-w-2xl relative rounded-3xl py-4 md:py-5 px-5 md:px-7 border-solid border-2 border-[#F5653F] flex overflow-hidden"
                     style={{
@@ -971,14 +971,14 @@ export function Landing() {
                         breaking
                       </p>
                       <h3 className="text-3xl md:text-5xl text-white my-0 tracking-tighter mb-6 leading-[87%] flex-grow">
-                        First Word Discovered
+                        Grand Prize Submissions Now Closed
                       </h3>
                       <div className="flex">
                         <div className="hidden sm:block uppercase font-bold tracking-wider mr-1 group-hover:mr-3 transition-all">
-                          Read the Announcement
+                          What's Next
                         </div>
                         <div className="block sm:hidden uppercase font-bold tracking-wider mr-1">
-                          Announcement
+                          What's Next
                         </div>
                         <img src="/img/landing/arrow-right.svg" />
                       </div>

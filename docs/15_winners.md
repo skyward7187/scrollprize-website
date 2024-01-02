@@ -40,6 +40,15 @@ Since the Vesuvius Challenge was launched in March 2023, a lot has happened. On 
 
 We have awarded **~$300,000** in prizes so far!
 
+### $700,000 Grand Prize (December 31 2023)
+
+**Goal:** Reveal four passages within the scrolls.<br/>
+**Criteria:** <a href="grand_prize">Criteria page</a>
+
+Submissions for the Grand Prize have now closed and the review process is in progress.
+Stay tuned, as there is more to come for Vesuvius Challenge!
+Read more at the [submission closing announcement](submissions_closed).
+
 ### $25,000 Open Source (November 30 2023)
 
 **Goal:** Increase the probability the Grand Prize gets awarded.<br/>
